@@ -8,7 +8,7 @@
  * 
  * 精彩继续，敬请关注
  * 
- * 欢迎访问: www.zhixingai.ren
+ * 欢迎访问: http://www.zhixingai.ren
  * 开源地址: https://github.com/hank583746309
  *          http://git.oschina.net/laohuangshu
  * 

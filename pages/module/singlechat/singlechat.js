@@ -1,3 +1,6 @@
+/**
+ * 聊天主程序
+ */
 var util = require("../../../utils/util.js");
 var db   = require("../../../utils/db.js");
 Page({

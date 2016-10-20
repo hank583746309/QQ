@@ -1,3 +1,8 @@
+
+/**
+ * 消息功能界面
+ * 
+ */
 var util = require("../../utils/util.js");
 var db   = require("../../utils/db.js");
 Page({

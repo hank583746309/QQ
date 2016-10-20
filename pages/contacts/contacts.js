@@ -1,3 +1,6 @@
+/**
+ * 联系人功能界面
+ */
 var db   = require("../../utils/db.js");
 var util = require("../../utils/util.js");
 Page({

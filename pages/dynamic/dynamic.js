@@ -1,3 +1,6 @@
+/**
+ * 动态功能界面
+ */
 Page({
   data:{
       fristRowMenus : [
